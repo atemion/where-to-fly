@@ -1,0 +1,15 @@
+******************* PHASE 01 ******************* 
+
+OBJECTIVE
+
+CLI-based tool, txt/csv-based database, outputs one random airport in France, identified at least by its 4-letter ICAO code, output printed to the console
+
+
+
+REQUIREMENTS
+
+REQ_01 - The tool must run as an unprivileged local user on Windows
+
+REQ_02 - The tool must output a unique airport, identified at least by its 4-letter ICAO code;
+
+REQ_03 - The tool includes its own offline (but updateable) database of airports; The database must only include airports modelized in MSFS 2024
